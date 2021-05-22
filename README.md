@@ -5,6 +5,8 @@ These tools mainly add [PartModules](https://wiki.kerbalspaceprogram.com/wiki/CF
 
 Following Modules are added:
 
+### Miscellaneous
+
 | Module | Function |
 | ----------- | ----------- |
 | ModuleKerbetrotterConverter | Enhancement of the Stock [ModuleResourceConverter](https://www.kerbalspaceprogram.com/api/class_module_resource_converter.html). This module adds the option the change the production rate of the resource converter in flight. This is done vía the Part Action Window (PAW).
