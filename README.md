@@ -3,7 +3,9 @@
 The Kerbetrotter Tools are a suite of plugins used by the [Feline Utility Rovers](https://github.com/Nils277/FelineUtilityRovers) mod for the [Kerbal Space Program](https://www.kerbalspaceprogram.com) computer game.
 These tools mainly add [PartModules](https://wiki.kerbalspaceprogram.com/wiki/CFG_File_Documentation#MODULES) that add new functionality to parts used in KSP.
 
-Following Modules are added:
+Below you find a list of all modules added with the Kerbetrotter Tools with a short description of them.
+
+If you are a modder and want to used these tools and/or add mod interaction to [Feline Utility Rovers](https://github.com/Nils277/FelineUtilityRovers), you can use the link to each module to see all available fields to configure the beheviour of each module. 
 
 ### Miscellaneous
 
