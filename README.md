@@ -19,3 +19,19 @@ Following features are added by the Kerbetrotter Tools
 - Other functionalities
   - VesselModules to control vessels with hover engine (breaking, stabilization, lateral movement, etc.)
   - Optional extentions for the editor to put parts in separate category or add function filter for mod
+
+## Requirements
+
+* at least KSP version 1.11.0
+
+## Installation
+
+* Remove any previous installation of *KerbetrotterLtd/000_KerbetrotterTools*
+* Copy the *KerbetrotterLtd* directory into the *GameData* folder of your KSP installation
+
+## License
+The art assets are licensed under:
+[CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
+
+The plugin code is licensed under: 
+[Apache License 2.0](http://www.apache.org/licenses/LICENSE-2.0.html)
