@@ -19,5 +19,5 @@ Following features are added by the Kerbetrotter Tools
   - Special Transfer handling of nuclear resources
   - Adjustable docking ports
 - Other functionalities
-  - VesselModules to control vessels with hover engine (strite, breaking, stabilization)
+  - VesselModules to control vessels with hover engine (breaking, stabilization, lateral movement, etc.)
   - Optional extentions for the editor to put parts in separate category or add function filter for mod
