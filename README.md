@@ -29,6 +29,11 @@ Following features are added by the Kerbetrotter Tools
 * Remove any previous installation of *KerbetrotterLtd/000_KerbetrotterTools*
 * Copy the *KerbetrotterLtd* directory into the *GameData* folder of your KSP installation
 
+## Thanks
+
+[sirkut](http://forum.kerbalspaceprogram.com/index.php?/profile/57229-sirkut/) and [Ziw](http://forum.kerbalspaceprogram.com/index.php?/profile/135292-ziw/) for Infernal Robotics, which was used as reference/learning source for the functionality of the hitch.  
+Also thanks to [Snjo](http://forum.kerbalspaceprogram.com/index.php?/profile/57198-snjo/) for the Firespitter mod. The Fuel switch is based on the one from Firespitter.  
+
 ## License
 The art assets are licensed under:
 [CC-BY-NC](https://creativecommons.org/licenses/by-nc/4.0/)
