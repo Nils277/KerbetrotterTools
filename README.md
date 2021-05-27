@@ -5,12 +5,6 @@ These tools mainly add [PartModules](https://wiki.kerbalspaceprogram.com/wiki/CF
 
 Below you find a list of all modules added with the Kerbetrotter Tools with a short description of them.
 
-**If you are a modder and want to used these tools and/or add mod interaction to [Feline Utility Rovers](https://github.com/Nils277/FelineUtilityRovers), you can use the link to each module to see all available fields to configure the beheviour of each module.** (TODO)
+**If you are a modder and want to used these tools and/or add mod interaction to [Feline Utility Rovers](https://github.com/Nils277/FelineUtilityRovers), please visit the [Wiki](https://github.com/Nils277/KerbetrotterTools/wiki) to see all available Modules and plugin functionalities.**
 
-### Miscellaneous
-
-| Module | Function |
-| ----------- | ----------- |
-| ModuleKerbetrotterConverter | Enhancement of the Stock [ModuleResourceConverter](https://www.kerbalspaceprogram.com/api/class_module_resource_converter.html). This module adds the option the change the production rate of the resource converter in flight. This is done vía the Part Action Window (PAW).
-| ModuleKerbetrotterDockingAdjustment | This module allows the change the position of the docking port of a part. The movement is controlled via an animation. The user can position the docking part anywhere between the end and the start of the animation of the part. |
-| ModuleKerbetrotterNuclearStorage | Special module for radioactive resources. This module restricts the transfer of the resources in a vessel. The transfer is only possible when a Kerbal with a specified trait and specified level is aboard the vessel |
+If you want to find out how to use any of the mods using these Tools, please visit either their respective Github Page, Forum Post or (if available) KSPedia entry.
